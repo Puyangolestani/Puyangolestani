@@ -20,4 +20,4 @@ Here are the languages and tools I use to work with data:
 ![Seaborn](https://img.shields.io/badge/Seaborn-FF4F00?style=for-the-badge&logo=seaborn&logoColor=white)
 ![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
 ![skitlearn](https://img.shields.io/badge/skitlearn-8CAAE6?style=for-the-badge&logo=scikit-learn&logoColor=white)
-
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
