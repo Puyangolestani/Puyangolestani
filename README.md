@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I'm Puyan, a passionate data science enthusiast currently in a data science Weiterbildung. I enjoy solving complex problems with data, and I am always looking to learn more and collaborate with like-minded individuals. Here's a bit more about me:
+I'm Puyan, a passionate data analyst and data science graduate from a data science Weiterbildung program. I enjoy solving complex problems with data and continuously expanding my skills while collaborating with like-minded individuals.
 
 - 🔭 I’m currently working on advancing my skills in data science and applying them to real-world problems.
 - 🌱 I’m currently learning advanced techniques in machine learning, deep learning, and data visualization.
