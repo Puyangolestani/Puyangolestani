@@ -1,23 +1,20 @@
 ## Hi there 👋
 
-I'm Puyan, a passionate data analyst and data science graduate from a data science Weiterbildung program. I enjoy solving complex problems with data and continuously expanding my skills while collaborating with like-minded individuals.
+I'm Puyan, a Sales Analyst at Sales Impact GmbH (Axel Springer) in Berlin, with a background in e-commerce operations and data science training from WBS Coding School. I turn data into decisions — through SQL, Python, and dashboards people actually use.
 
-- 🔭 I’m currently working on advancing my skills in data science and applying them to real-world problems.
-- 🌱 I’m currently learning advanced techniques in machine learning, deep learning, and data visualization.
-- 👯 I’m looking to collaborate on data-driven projects, particularly in data analysis and machine learning.
-- 🤔 I’m looking for help with exploring more advanced AI models and improving my coding skills in Python.
-- 💬 Ask me about data science, machine learning, Python, and my current projects.
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/puyan-golestani-data)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love learning new programming languages and tools to make data more insightful!
+- 💼 Currently working on sales and market analytics at Axel Springer
+- 🔭 Recent work: SQL-driven market entry analysis, A/B testing with statistical validation, KPI dashboard automation, XGBoost forecasting
+- 🌱 Sharpening my skills in BigQuery and advanced SQL
+- 👯 Open to collaborating on data analysis, dashboarding, or forecasting projects
+- 💬 Ask me about SQL, Python, Power BI/Tableau, or A/B testing
+- 📫 Reach me on [LinkedIn](https://www.linkedin.com/in/puyan-golestani-data)
 
 ### Languages and Tools:
 Here are the languages and tools I use to work with data:
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-FF4F00?style=for-the-badge&logo=seaborn&logoColor=white)
-![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)
-![skitlearn](https://img.shields.io/badge/skitlearn-8CAAE6?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PowerBI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
